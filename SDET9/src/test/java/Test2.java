@@ -8,7 +8,7 @@ public class Test2 {
 		double d=33.3;
 		
 		
-		System.out.println(a+d);
+		System.out.println("my git");
 
 	}
 
